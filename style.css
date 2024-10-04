@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.poster{
+    width: 50%; 
+   margin-left: 25%;
+   margin-top: 100px;
+   color: white;
+   
+   }
+.CashImage{
+    width: 100%;
+    border: solid 10px white;
+
+}
+
+h1{
+    font-size: 3rem;
+    color: white;
+    font-family:"Libre Baskerville", serif;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 2rem;
+    font-family:"Libre Baskerville", serif;
+    text-align: center;
+}
+
